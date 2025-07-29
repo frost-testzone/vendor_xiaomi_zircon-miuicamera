@@ -69,7 +69,7 @@ cc_prebuilt_library_shared {
                 "libui",
                 "libutils",
                 "libvndksupport",
-                "vendor.mediatek.hardware.camera.isphal@1.0",
+                "vendor.mediatek.hardware.camera.isphal@1.0_system_ext",
                 "vendor.mediatek.hardware.camera.isphal-V1-ndk",
                 "libbinder_ndk",
                 "libmtkisp_metadata_sys",
